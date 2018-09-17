@@ -1,7 +1,7 @@
 # Git Tips
 > [git tips](https://github.com/git-tips/tips)의 한국어 버전 문서입니다.
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips)
+[English](https://github.com/ninjavungve/git-tips) | [中文](https://github.com/ninjavungve/git-tips/blob/master/locales/Chinese.md) | [Русский](https://github.com/ninjavungve/git-tips/blob/master/locales/Russian.md) | [한국어](https://github.com/ninjavungve/git-tips/blob/master/locales/Korea.md) | [Tiếng Việt](https://github.com/ninjavungve/git-tips/blob/master/locales/Vietnamese.md)
 
 ## 팁 툴
 
