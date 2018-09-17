@@ -4,7 +4,7 @@
 
 Хотите дополнить список? Ознакомьтесь с [CONTRIBUTING.md](CONTRIBUTING.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips)
+[English](https://github.com/ninjavungve/git-tips) | [中文](https://github.com/ninjavungve/git-tips/blob/master/locales/Chinese.md) | [Русский](https://github.com/ninjavungve/git-tips/blob/master/locales/Russian.md) | [한국어](https://github.com/ninjavungve/git-tips/blob/master/locales/Korea.md) | [Tiếng Việt](https://github.com/ninjavungve/git-tips/blob/master/locales/Vietnamese.md)
 
 ### Tools:
 
