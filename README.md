@@ -1,7 +1,7 @@
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips)
+[English](https://github.com/ninjavungve/git-tips) | [中文](https://github.com/ninjavungve/git-tips/blob/master/locales/Chinese.md) | [Русский](https://github.com/ninjavungve/git-tips/blob/master/locales/Russian.md) | [한국어](https://github.com/ninjavungve/git-tips/blob/master/locales/Korea.md) | [Tiếng Việt](https://github.com/ninjavungve/git-tips/blob/master/locales/Vietnamese.md)
 
 ### __Tools:__
 
